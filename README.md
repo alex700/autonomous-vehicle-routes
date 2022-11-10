@@ -34,7 +34,6 @@ $ npm install
 
 ```bash
 $ npx nestjs-command route:events example1.csv 2020-04-01
-$ ts-node ./src/cli.ts route:events /Users/alex/public_html/aurora/example1.csv 2020-04-01
 ```
 OR
 ```bash
